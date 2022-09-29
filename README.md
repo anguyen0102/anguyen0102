@@ -11,13 +11,14 @@
 *I am 20 years old, and I have a great interest in coding and database management/organization*
 
 ## Current Skills
-1. Excel (Pivot Tables, Regression, Moving Average, Forecasting)
-2. Access (Queries)
+1. Excel *(Pivot Tables, Regression, Moving Average, Forecasting)*
+2. Access *(Queries)*
 3. Python
 
 ## Progress in Python
 
 **As on Sept 28th, 2022**
+
 *Currently in UIowa, I am in BAIS:3020 Computational Thinking*
 *We have learned the basics of python, and have completed conditional loops and if - else functions*
 *As of the 7th week of class, we are now learning about string and how to incorporate into our codes*
