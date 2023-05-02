@@ -2,7 +2,6 @@
 
 - [WHO AM I](#Who-am-I)
 - [CURRENT SKILLS](#Current-Skills)
-- [PROGRESS IN PYTHON](#Progress-in-Python)
 - [FUTURE ASPIRATIONS](#Future-Aspirations)
 
 ## Who am I 
