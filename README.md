@@ -1,6 +1,4 @@
-### Welcome to my Profile!
-
-## Who am I 
+## Hello! 
 
 My name is Athena Phommivong, and I am a future December 2023 graduate from the **University of Iowa**. I'm 21, and I have a great interest in coding and database management/organization! 
 
