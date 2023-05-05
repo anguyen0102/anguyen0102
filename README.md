@@ -19,6 +19,6 @@ Wnat to know more about me? Checkout my Portfolio Project below and scan my QR C
 
 ## Future Aspirations
 
-I hope to finish my undergrad education at the University of Iowa, and am currently looking for an internship with the benefit of tuition assistance!
+I hope to finish my undergrad education at the University of Iowa, and am currently looking for internships!
 
 Coding is very interesting to me, so I am looking forward to what I do in the future once I finish all my classes!
