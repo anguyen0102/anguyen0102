@@ -1,6 +1,6 @@
 ## Hello! 
 
-My name is Athena Phommivong, and I am a future December 2023 graduate from the **University of Iowa**. I'm 21, and I have a great interest in coding and database management/organization! 
+My name is Athena Phommivong, and I am a December 2023 graduate from the **University of Iowa**. I'm 21, and I have a great interest in coding and database management/organization! 
 
 Wnat to know more about me? Checkout my Portfolio Project below and scan my QR Code!
 
